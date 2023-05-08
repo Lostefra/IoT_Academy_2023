@@ -1,0 +1,3 @@
+time_server,time_client,Gz,Ax,Ay
+time_server,POSx,POSy,orient
+time_server,label
